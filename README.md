@@ -15,7 +15,7 @@ The project consists of the following files:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/div-styling-project.git
+   git clone [https://github.com/your-username/div-styling-project.git](https://github.com/Ankit64s/domProject1.git)
    ```
 
 2. Open the `index.html` file in a web browser. You will see a simple webpage with a text inside the `<div>` element.
